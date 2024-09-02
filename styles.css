@@ -1,0 +1,59 @@
+
+.card{
+    margin: 15px;
+    color: #121212;
+}
+
+h1{
+    text-align: center;
+}
+
+.stadium,input{
+    display: block;   
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    border: 3px solid #121212;
+
+}
+.stadium{
+    width: 380px;
+    margin-top: 25px;
+}
+
+.description{
+    display: block;
+    width: 380px;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+input{
+    padding: 5px;
+    text-align: center;
+}
+
+button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    color: white;
+    background-color: #121212;
+    text-align: center;
+    width: 180px;
+    padding: 5px;
+    font-weight: bold;
+}
+.terms{
+    
+    text-align: center;
+    font-style: italic;
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-size: 15px;
+}
+
+a{
+    color: #121212;
+}
